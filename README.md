@@ -21,10 +21,10 @@ link to repo [here](https://github.com/Techpet-Engineering-Global/Part-1-cloud_b
 
 link to repo [here](https://github.com/Techpet-Engineering-Global/Jenkins-packer-deployment)
 
-### Part 3 (ceros game optimization)
+### Part 3 (Jenkins with terraform)
 
 link to repo here
 
-### Part 4 (Jenkins with terraform)
+### Part 4 (ceros game optimization)
 
 link to repo here

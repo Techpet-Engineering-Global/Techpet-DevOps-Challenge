@@ -23,8 +23,8 @@ link to repo [here](https://github.com/Techpet-Engineering-Global/Jenkins-packer
 
 ### Part 3 (Jenkins with terraform)
 
-link to repo here
+link to repo [here](https://github.com/Techpet-Engineering-Global/Part-3-jenkins-master-with-terraform)
 
 ### Part 4 (ceros game optimization)
 
-link to repo here
+link to repo [here]( https://github.com/Techpet-Engineering-Global/Part-4-ceros-ski)
